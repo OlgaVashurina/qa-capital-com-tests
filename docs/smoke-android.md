@@ -120,7 +120,7 @@
 ### 📋 Block: "Search" tab
 
 | ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
-|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+|------|----------------------------------------------------------------|------------------------------------------------------------|--------------------|----------|
 | SC86 | Select [Shares] category                                       | Displayed list includes only shares                        |                    | Pending  |
 | SC87 | Select [Indices] category                                      | Displayed list includes only indices                       |                    | Pending  |
 | SC88 | Select [Commodities] category                                  | Displayed list includes only commodities                   |                    | Pending  |
@@ -133,7 +133,7 @@
 ### 📋 Block: "News" tab
 
 | ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
-|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+|------|----------------------------------------------------------------|------------------------------------------------------------|--------------------|----------|
 | SC94 | Scroll through the news feed                                   | News list scrolls vertically                               |                    | Pending  |
 | SC95 | Navigate via tabs (All, For you, Headlines, Reports)           | News list updates to match selected category               |                    | Pending  |
 | SC96 | Tap on any news article                                        | Selected article opens                                     |                    | Pending  |
@@ -142,7 +142,7 @@
 ### 📋 Block: Market Module
 
 | ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
-|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+|------|----------------------------------------------------------------|------------------------------------------------------------|--------------------|----------|
 | SC98 | Tap [Buy] on selected market                                   | Confirmation shown. Market appears in [Trade] tab          |                    | Pending  |
 | SC99 | Tap [Sell] on selected market                                  | "You sold [Price] [Market]" message.Market removed from tab|                    | Pending  |
 | SC100| Set up a price alert                                           | Alert is triggered based on configured price threshold     |                    | Pending  |
@@ -150,7 +150,7 @@
 ### 📋 Block: Adding widget
 
 | ID    | Action Description                                            | Expected Result                                            | AR (Actual Result) | Status   |
-|-------|---------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+|-------|---------------------------------------------------------------|------------------------------------------------------------|--------------------|----------|
 | SC101 | Add widget from home screen widget list                       | Widget appears on the home screen                          |                    | Pending  |
 | SC102 | Select account (live/demo) in setup screen                    | Widget displays selected account’s portfolio               |                    | Pending  |
 | SC103 | Set widget background in setup                                | Background updated accordingly                             |                    | Pending  |

@@ -1,54 +1,55 @@
 # Capital.com · End-to-End QA Project
 
-Этот репозиторий представляет собой демонстрационный проект по тестированию финтех-платформы **Capital.com**. Он создан как часть профессионального портфолио QA-инженера и охватывает весь цикл тестирования: от анализа требований до автоматизации, CI/CD и нагрузочного тестирования.
+This repository is a showcase QA project for the **Capital.com** fintech platform. It was created as part of a professional QA engineer portfolio and demonstrates a full testing cycle: from requirements analysis to automation, CI/CD, and performance testing.
 
-## О платформе
-[Capital.com](https://capital.com/en-eu) — международная платформа для онлайн-трейдинга CFD (акции, криптовалюта, форекс), доступная на Web, iOS и Android. Более 3000 торговых инструментов, аналитика на базе AI и встроенное обучение.
+## About the Platform
 
-## Что реализовано в проекте
+[Capital.com](https://capital.com/en-eu) is a global CFD trading platform (stocks, crypto, forex), available on Web, iOS, and Android. It offers access to over 3000 financial instruments, AI-powered analytics, and integrated learning tools.
 
-- ✅ Smoke и Regression чек-листы (Web, Android, iOS)
-- ✅ Тест-кейсы на ключевые бизнес-функции (торговля, пополнение, верификация)
-- ✅ Баг-репорты с приоритетами и шагами воспроизведения
-- ✅ Автотесты UI: **Java + Selenium + JUnit/TestNG**
-- ✅ BDD-тесты на **Cucumber**
-- ✅ API-тестирование: **Postman + RestAssured**
-- ✅ Allure-отчёты
-- ✅ CI/CD: интеграция с **Jenkins**
-- ✅ Нагрузочное тестирование с использованием **JMeter**
+## What’s Implemented
 
-## Цели проекта
+- ✅ Smoke and regression checklists (Web, Android, iOS)  
+- ✅ Test cases for key business flows (trading, deposits, KYC)  
+- ✅ Bug reports with severity/priority and reproduction steps  
+- ✅ UI automation tests: **Java + Selenium + JUnit/TestNG**  
+- ✅ BDD tests using **Cucumber**  
+- ✅ API testing: **Postman + RestAssured**  
+- ✅ Allure reports  
+- ✅ CI/CD integration with **Jenkins**  
+- ✅ Performance testing using **JMeter**
 
-- Демонстрация полного цикла QA: от ручного до автоматизированного тестирования
-- Создание портфолио для вакансий QA и QA Automation Engineer
-- Повышение стабильности и прозрачности процессов тестирования
-- Тренировка навыков взаимодействия с командой и инструментами разработки
+## Project Goals
 
-## Используемые технологии
+- Demonstrate a complete QA cycle: from manual to automated testing  
+- Showcase hands-on experience for QA/QA Automation Engineer roles  
+- Improve transparency and stability of QA processes  
+- Practice collaboration with tools used in real-world development
 
-- Java 17
-- Selenium WebDriver
-- Cucumber (Gherkin)
-- RestAssured
-- Postman
-- JUnit / TestNG
-- Allure Reports
-- Jenkins
-- JMeter
+## Tech Stack
+
+- Java 17  
+- Selenium WebDriver  
+- Cucumber (Gherkin)  
+- RestAssured  
+- Postman  
+- JUnit / TestNG  
+- Allure Reports  
+- Jenkins  
+- JMeter 
 - Git / GitHub Actions
 
-## Структура проекта
+## Project Structure
 
-/docs – документация, чек-листы, тест-кейсы, баги
-/test-cases – подробные тест-кейсы
-/bug-reports – оформленные баг-репорты
-/automation/web – автотесты Web-интерфейса (Selenium)
-/automation/api – автотесты REST API (RestAssured)
-/load-testing – скрипты и конфигурации JMeter
+- [`/docs`](./docs) — documentation, checklists, glossary  
+- [`/test-cases`](./test-cases) — detailed test cases  
+- [`/bug-reports`](./bug-reports) — bug reports  
+- [`/automation/web`](./automation/web) — UI tests (Selenium)  
+- [`/automation/api`](./automation/api) — API tests (RestAssured)  
+- [`/automation/bdd`](./automation/bdd) — Cucumber tests (Gherkin + Java)  
+- [`/load-testing`](./load-testing) — performance testing scripts (JMeter)
 
 ## Автор
 
-[Ольга Вашурина]
-(https://www.linkedin.com/in/olga-vashurina/) 
-(https://github.com/OlgaVashurina)  
-QA Engineer | Automation in Progress | Berlin / Remote
+👩‍💻 [Olga Vashurina](https://www.linkedin.com/in/olga-vashurina/)  
+QA Engineer | Automation in Progress | Berlin / Remote  
+[GitHub Profile](https://github.com/OlgaVashurina)

@@ -48,7 +48,7 @@ This repository is a showcase QA project for the **Capital.com** fintech platfor
 - [`/automation/bdd`](./automation/bdd) — Cucumber tests (Gherkin + Java)  
 - [`/load-testing`](./load-testing) — performance testing scripts (JMeter)
 
-## Автор
+## Author
 
 👩‍💻 [Olga Vashurina](https://www.linkedin.com/in/olga-vashurina/)  
 QA Engineer | Automation in Progress | Berlin / Remote  

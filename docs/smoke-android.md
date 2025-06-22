@@ -112,10 +112,10 @@
 | SC81 | Select market from list                                        | Selected market screen opens                               |                    | Pending  |
 | SC82 | Purchase a market                                              | Purchased market is displayed under [Trade] tab            |                    | Pending  |
 | SC83 | Scroll through "Portfolio" screen with 4+ trades               | Portfolio screen scrolls vertically as expected            |                    | Pending  |
-| SC84 | Close trade using [x] button                                   | Message "You sold [Price] [Market name]" appears. 
-                                                                          Market disappears from "Portfolio" tab                     |                    | Pending  |
-| SC85 | Create price alert                                             | "Price alert created" message appears. 
-                                                                           Alert is listed under [Alerts] tab on profile screen      |                    | Pending  |
+| SC84 | Close trade using [x] button                                   | Message "You sold [Price] [Market name]" appears.          |                    |          |
+| SC84 | Close trade using [x] button                                   |   Market disappears from "Portfolio" tab                   |                    | Pending  |
+| SC85 | Create price alert                                             | "Price alert created" message appears.                     |                    |          |
+| SC85 | Create price alert                                             |   Alert is listed under [Alerts] tab on profile screen     |                    | Pending  |
 
 ### 📋 Block: "Search" tab
 

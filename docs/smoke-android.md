@@ -119,43 +119,43 @@
 
 ### 📋 Block: "Search" tab
 
-| ID   | Action Description                                             | Expected Result                                               |AR(Actual Result)| Status   |
-|------|----------------------------------------------------------------|---------------------------------------------------------------|                 | Pending  |
-| SC86 | Select [Shares] category                                       | Displayed list includes only shares                           |                 | Pending  |
-| SC87 | Select [Indices] category                                      | Displayed list includes only indices                          |                 | Pending  |
-| SC88 | Select [Commodities] category                                  | Displayed list includes only commodities                      |                 | Pending  |
-| SC89 | Select [Forex] category                                        | Displayed list includes only forex                            |                 | Pending  |
-| SC90 | Select [Crypto] category                                       | Displayed list includes only cryptocurrencies                 |                 | Pending  |
-| SC91 | Select [ETF] category                                          | Displayed list includes only ETFs                             |                 | Pending  |
-| SC92 | Use search to find a market                                    | Displayed list includes matching market                       |                 | Pending  |
-| SC93 | Add found market to watchlist                                  | "[Market] added to [Watchlist]" message shown. Market appears.|                 | Pending  |
+| ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
+|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+| SC86 | Select [Shares] category                                       | Displayed list includes only shares                        |                    | Pending  |
+| SC87 | Select [Indices] category                                      | Displayed list includes only indices                       |                    | Pending  |
+| SC88 | Select [Commodities] category                                  | Displayed list includes only commodities                   |                    | Pending  |
+| SC89 | Select [Forex] category                                        | Displayed list includes only forex                         |                    | Pending  |
+| SC90 | Select [Crypto] category                                       | Displayed list includes only cryptocurrencies              |                    | Pending  |
+| SC91 | Select [ETF] category                                          | Displayed list includes only ETFs                          |                    | Pending  |
+| SC92 | Use search to find a market                                    | Displayed list includes matching market                    |                    | Pending  |
+| SC93 | Add found market to watchlist                                  | "[Market] added to [Watchlist]"message shown.Market appears|                    | Pending  |
 
 ### 📋 Block: "News" tab
 
-| ID   | Action Description                                             | Expected Result                                               |AR(Actual Result)| Status   |
-|------|----------------------------------------------------------------|---------------------------------------------------------------|                 | Pending  |
-| SC94 | Scroll through the news feed                                   | News list scrolls vertically                                  |                 | Pending  |
-| SC95 | Navigate via tabs (All, For you, Headlines, Reports)           | News list updates to match selected category                  |                 | Pending  |
-| SC96 | Tap on any news article                                        | Selected article opens                                        |                 | Pending  |
-| SC97 | Swipe or tap to previous/next news article                     | Previous or next article is displayed                         |                 | Pending  |
+| ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
+|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+| SC94 | Scroll through the news feed                                   | News list scrolls vertically                               |                    | Pending  |
+| SC95 | Navigate via tabs (All, For you, Headlines, Reports)           | News list updates to match selected category               |                    | Pending  |
+| SC96 | Tap on any news article                                        | Selected article opens                                     |                    | Pending  |
+| SC97 | Swipe or tap to previous/next news article                     | Previous or next article is displayed                      |                    | Pending  |
 
 ### 📋 Block: Market Module
 
-| ID   | Action Description                                             | Expected Result                                               |AR(Actual Result)| Status   |
-|------|----------------------------------------------------------------|---------------------------------------------------------------|                 | Pending  |
-| SC98 | Tap [Buy] on selected market                                   | Confirmation shown. Market appears in [Trade] tab             |                 | Pending  |
-| SC99 | Tap [Sell] on selected market                                  | "You sold [Price] [Market]" message. Market removed from tab  |                 | Pending  |
-| SC100| Set up a price alert                                           | Alert is triggered based on configured price threshold        |                 | Pending  |
+| ID   | Action Description                                             | Expected Result                                            | AR (Actual Result) | Status   |
+|------|----------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+| SC98 | Tap [Buy] on selected market                                   | Confirmation shown. Market appears in [Trade] tab          |                    | Pending  |
+| SC99 | Tap [Sell] on selected market                                  | "You sold [Price] [Market]" message.Market removed from tab|                    | Pending  |
+| SC100| Set up a price alert                                           | Alert is triggered based on configured price threshold     |                    | Pending  |
 
 ### 📋 Block: Adding widget
 
-| ID    | Action Description                                            | Expected Result                                               |AR(Actual Result)| Status   |
-|-------|---------------------------------------------------------------|---------------------------------------------------------------|                 | Pending  |
-| SC101 | Add widget from home screen widget list                       | Widget appears on the home screen                             |                 | Pending  |
-| SC102 | Select account (live/demo) in setup screen                    | Widget displays selected account’s portfolio                  |                 | Pending  |
-| SC103 | Set widget background in setup                                | Background updated accordingly                                |                 | Pending  |
-| SC104 | Configure 15 min auto-refresh                                 | Widget updates automatically every 15 min                     |                 | Pending  |
-| SC105 | Tap [Update] on widget                                        | Price data is refreshed                                       |                 | Pending  |
-| SC106 | Tap [Settings] on widget                                      | Settings screen opens                                         |                 | Pending  |
-| SC107 | Tap widget from home screen                                   | Navigates to "Portfolio" screen                               |                 | Pending  |
-| SC108 | Delete widget from home screen                                | Widget is removed from home screen                            |                 | Pending  |
+| ID    | Action Description                                            | Expected Result                                            | AR (Actual Result) | Status   |
+|-------|---------------------------------------------------------------|------------------------------------------------------------|                    | Pending  |
+| SC101 | Add widget from home screen widget list                       | Widget appears on the home screen                          |                    | Pending  |
+| SC102 | Select account (live/demo) in setup screen                    | Widget displays selected account’s portfolio               |                    | Pending  |
+| SC103 | Set widget background in setup                                | Background updated accordingly                             |                    | Pending  |
+| SC104 | Configure 15 min auto-refresh                                 | Widget updates automatically every 15 min                  |                    | Pending  |
+| SC105 | Tap [Update] on widget                                        | Price data is refreshed                                    |                    | Pending  |
+| SC106 | Tap [Settings] on widget                                      | Settings screen opens                                      |                    | Pending  |
+| SC107 | Tap widget from home screen                                   | Navigates to "Portfolio" screen                            |                    | Pending  |
+| SC108 | Delete widget from home screen                                | Widget is removed from home screen                         |                    | Pending  |

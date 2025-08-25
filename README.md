@@ -50,4 +50,4 @@ This repository is a showcase QA project for the **Capital.com** fintech platfor
 
 ## Author
 
-👩‍💻 [Olga Vashurina] QA Engineer | Automation in Progress 
+👩‍💻 Olga Vashurina QA Engineer | Automation in Progress 
